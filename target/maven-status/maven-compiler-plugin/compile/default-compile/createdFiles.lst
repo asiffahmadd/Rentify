@@ -1,0 +1,7 @@
+rentify/helper/MyConfiguration.class
+rentify/dto/Customer.class
+rentify/service/CustomerService.class
+rentify/helper/MyDispatcherServlet.class
+rentify/dao/CustomerDao.class
+rentify/dto/Property.class
+rentify/controller/CustomerController.class
